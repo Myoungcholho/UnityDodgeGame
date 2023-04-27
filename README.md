@@ -1,4 +1,4 @@
-# UnityDodgeGame\n
+# UnityDodgeGame
 유니티 게임 프로그래밍 서적에 실려있는
 닷지 게임입니다.
 
